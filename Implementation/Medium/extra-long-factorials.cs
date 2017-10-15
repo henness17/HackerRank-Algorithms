@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/extra-long-factorials/problem
+// https://www.hackerrank.com/challenges/extra-long-factorials
 using System;
 using System.Collections.Generic;
 using System.IO;
